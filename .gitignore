@@ -1,0 +1,12 @@
+*.metadata
+*.classpath
+*.project
+*.settings
+*.log
+*.myumldata
+*.mymetadata
+*/target
+*/target/*
+*/lib/*
+*/bin
+*/src/main/java/META-INF
